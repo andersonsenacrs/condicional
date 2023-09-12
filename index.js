@@ -52,3 +52,4 @@ switch (pokemon){
     default:
         console.log('Nacionalidade não Encontrada')
         break
+}
